@@ -1,0 +1,26 @@
+[
+  {
+    "name": "علیرضا قربانی",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Falireza-ghorbani.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121308Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=26b0ab979a8ade6299c1e9afdfe876d89cc5db66e5299c905c63e1e955008ebf"
+  },
+  {
+    "name": "همایون شجریان",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Fhomayon-shajarian.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121354Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=125b50c1db2d9a1bfcaf13d0c3c3e7b44f8f281b5e2aa8a8a3e23bbef297179b"
+  },
+  {
+    "name": "محسن چاوشی",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Fmohsen-chavoshi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121538Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=78a9d3c73dcfbf0c75064d254835ff97b03c1b831b6517b0d8a66aa44df9dd3a"
+  },
+  {
+    "name": "معین",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Fmoein.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121415Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=f76961ef772c7efbef9f891e3fd4ad06b253ece485460e90093aa3942bcb8259"
+  },
+  {
+    "name": "طاهر قریشی",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Ftaher-ghoerishi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121547Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=1de59d3397c009ec8cfa0a9e7ba5ed92c00ade02300f414500d8f818debfbbdb"
+  },
+  {
+    "name": "عرفان طهماسبی",
+    "image_url": "https://s3.ir-thr-at1.arvanstorage.ir/musicpich/musicpich%2Fartists%2Ferfun-tahmasebi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cd3666b6-e393-4229-bf9e-86e694adff17%2F20241205%2Fir-thr-at1%2Fs3%2Faws4_request&X-Amz-Date=20241205T121332Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&versionId=&X-Amz-Signature=a922ff91ed71db20e54e4e7fd7d92e31f3a49eb47e138dd433083204705ca8bd"
+  }
+]
