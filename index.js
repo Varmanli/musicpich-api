@@ -9,11 +9,10 @@ const cors = require("cors");
 connectDB();
 
 const allowedOrigins = [
-  "http://localhost:5173/",
+  "http://localhost:5173", // بدون اسلش اضافی
   "https://musicpich.vercel.app",
 ];
 
-// تنظیم CORS
 app.use(
   cors({
     origin: function (origin, callback) {
@@ -25,7 +24,6 @@ app.use(
     },
   })
 );
-app.use(cors());
 
 app.use((req, res, next) => {
   console.log(`Request received: ${req.method} ${req.url}`);
