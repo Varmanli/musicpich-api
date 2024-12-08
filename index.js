@@ -9,7 +9,7 @@ const cors = require("cors");
 connectDB();
 
 const allowedOrigins = [
-  "http://localhost:5173", // بدون اسلش اضافی
+  "http://localhost:5173",
   "https://musicpich.vercel.app",
 ];
 
