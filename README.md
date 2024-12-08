@@ -75,6 +75,3 @@ The API is deployed on **Railway** and accessible via the production URL:
 ### **License**
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Feel free to modify or extend this README as needed. Let me know if you'd like additional details or changes! 😊
