@@ -8,14 +8,23 @@ const cors = require("cors");
 
 connectDB();
 
+const allowedOrigins = [
+  "http://localhost:5173/",
+  "https://musicpich.vercel.app",
+];
+
+// تنظیم CORS
 app.use(
   cors({
-    origin: "http://localhost:5173/", // برای تست، همه منابع مجاز هستند. در Production، آدرس دقیق فرانت‌اند را وارد کنید.
-    methods: ["GET", "POST", "PUT", "DELETE"], // متدهای مجاز
-    credentials: true, // در صورت نیاز به ارسال کوکی‌ها
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
   })
 );
-
 app.use(cors());
 
 app.use((req, res, next) => {
